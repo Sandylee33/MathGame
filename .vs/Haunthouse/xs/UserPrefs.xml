@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{809DFDBB-77DB-4DFA-91ED-0E04D6A79BB1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Haunthouse/Program.cs">
+    <Files>
+      <File FileName="Haunthouse/Program.cs" Line="55" Column="26" />
+      <File FileName="Haunthouse/Ghost.cs" Line="87" Column="77" />
+      <File FileName="Haunthouse/GhostList.cs" Line="42" Column="145" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Haunthouse PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
